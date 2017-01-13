@@ -10,7 +10,7 @@ namespace Project
     {
         static void Main(string[] args)
         {
-            // 1111
+            // 1111 - Vitalii
         }
     }
 }
